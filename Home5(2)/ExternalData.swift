@@ -1,0 +1,5 @@
+protocol ExternalData {
+    func exData()
+    
+}
+
