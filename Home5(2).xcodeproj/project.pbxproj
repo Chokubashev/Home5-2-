@@ -71,11 +71,11 @@
 			children = (
 				FAFB7B5B2833D5E90027E42F /* main.swift */,
 				FAFB7B642833D81A0027E42F /* TechnicalData.swift */,
+				FAFB7B6C2833DB1F0027E42F /* ExternalData.swift */,
 				FAFB7B622833D61A0027E42F /* Phone.swift */,
 				FAFB7B662833D84A0027E42F /* Iphone5.swift */,
 				FAFB7B682833D89B0027E42F /* Iphone6.swift */,
 				FAFB7B6A2833D8BE0027E42F /* Iphone7.swift */,
-				FAFB7B6C2833DB1F0027E42F /* ExternalData.swift */,
 			);
 			path = "Home5(2)";
 			sourceTree = "<group>";

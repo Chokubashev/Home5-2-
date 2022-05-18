@@ -5,11 +5,9 @@ var iphone7 = Iphone7(model: "Iphone 7", color: "Gold", operatingMemory: 4, pric
 
 var phones: [Phone] = [iphone5, iphone6, iphone7]
 
-for i in phones {
-    iphone5.exData()
-    iphone5.data()
-    iphone6.exData()
-    iphone6.data()
-    iphone7.exData()
-    iphone7.data()
+for phone in phones {
+    phone.exData()
+    phone.data()
 }
+
+

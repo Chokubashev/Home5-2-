@@ -1,12 +1,7 @@
-class Iphone6: Phone, ExternalData, TechnicaData {
+class Iphone6: Phone {
     
-    func exData() {
-        print("\(model) имеет металический корпус,\(color) цвет!")
-    }
     
-    func data() {
-        print("\(model) имеет \(operatingMemory)гб операционную память!")
-    }
+    
     
     
 }
